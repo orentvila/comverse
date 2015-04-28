@@ -1,0 +1,58 @@
+body {
+	 font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+.lang-login-nav {
+    text-align: right;
+    margin-right: 400px;
+}
+.lang-login-nav li{
+	list-style-type: none;
+	display: inline-block;
+}
+li::before {content "sssssssss";}
+.navigation li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 40px;
+
+}
+nav {
+	display: inline-block;
+} 
+.banner {
+	text-align: center;
+	background-image: url("../img/slide-bg-complexity.jpg");
+    background-attachment: fixed;
+}
+.banner ul {
+	list-style-type: none;
+	display: inline-block;
+
+}
+.banner ul,h1,h2{
+	
+
+}
+.banner article {
+    color: white;
+    padding: 0px;
+    margin-left: 10px;
+    display: inline-block;
+    opacity: 0.8;
+    padding: 10px 10px 10px 10px;
+    height: 150px;
+    width: 250px;
+}
+.banner-pink {
+    background-color: #FF0066;
+    border-radius: 7px;
+}
+.banner-green {
+    background-color: #33FF00;
+    border-radius: 7px;
+}
+.banner-orange {
+    background-color: #FF6600;
+    border-radius: 7px;
+}
